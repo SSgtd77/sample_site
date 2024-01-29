@@ -2,3 +2,8 @@
 *.png
 *.jpg
 *.gif
+
+# Other File
+tempfile.txt
+*.zip
+*.gz
